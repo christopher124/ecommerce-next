@@ -1,10 +1,10 @@
 import TopBar from "./TopBar";
-
+import MenuWeb from "./Menu";
 export default function Header() {
   return (
     <div className="header">
       <TopBar />
-      <div>Menu</div>
+      <MenuWeb />
     </div>
   );
 }
