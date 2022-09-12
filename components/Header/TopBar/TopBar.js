@@ -20,7 +20,10 @@ function Logo() {
   return (
     <Link href="/">
       <a>
-        <Image src="/logo.png" alt="logo" />
+        <Image
+          src="https://gamer-ecommerce-next.s3.us-west-1.amazonaws.com/logo_bbac149494.png"
+          alt="logo"
+        />
       </a>
     </Link>
   );
